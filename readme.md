@@ -87,7 +87,7 @@ The improved model introduces an additional hidden layer with 100 neurons and a 
 
 A confusion matrix is used to evaluate the performance of the improved model. It visualizes the number of correct and incorrect predictions for each digit.
 
-![Confusion Matrix](confusionMatrix.png)  
+![Confusion Matrix](ConfusionMatrix.png)  
 *(Example confusion matrix for the improved model)*
 
 ## Contributing
